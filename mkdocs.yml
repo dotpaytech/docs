@@ -1,0 +1,17 @@
+site_name: Documentation
+theme:
+  name: 'material'
+  font:
+    text: 'Microsoft YaHei'
+    code: 'Ubuntu Mono'
+  palette:
+    primary: 'black'
+    accent: 'indigo'
+
+# Github
+repo_url: https://github.com/dotpaytech/docs
+repo_name: dotpaytech/docs
+
+nav:
+ - 'Home': 'index.md'
+
