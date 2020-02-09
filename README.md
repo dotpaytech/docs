@@ -1,6 +1,6 @@
-# Sakura Wallet Documentation
+# Documentation
 
-`docs` is source code for the [Sakura Documentation](https://sakura.readthedocs.io/).
+`docs` is source code for the [Sakura Documentation](https://sakura-docs.readthedocs.io/).
 
 This `docs` is built with [MkDocs](https://www.mkdocs.org/) and [Read the Docs](https://readthedocs.org/).
 
